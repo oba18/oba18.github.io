@@ -1326,7 +1326,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 
 body, input, textarea, select {
   /* font-family: 'Source Sans Pro', sans-serif; */
-  font-family: 'MesloLGS NF'', sans-serif;
+  font-family: 'MesloLGS NF', 'sans-serif';
   font-weight: 300;
   color: #777777;
   font-size: 20pt;
